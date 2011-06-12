@@ -1,3 +1,3 @@
 # MyDrupalJourney
 
-This is my readme for mydrupaljourney.com
+This is my readme for MyDrupalJourney.com
